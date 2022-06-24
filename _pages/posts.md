@@ -1,8 +1,8 @@
 ---
-title: "Talks"
+title: "Posts"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /posts/
 ---
 
 <style>
@@ -23,12 +23,12 @@ permalink: /talks/
 </style>
 
 <div class="jumbotron">
-### Invited talks
-{% bibliography --query @incollection[keywords ^= invited] %}
+### Welcome to my website
+ The quick brown fox jumped over the lazy dog.
 </div>
 
 <div class="jumbotron">
 ### Regular talks
-{% bibliography --query @incollection[keywords != invited] %}
+
 </div>
 
