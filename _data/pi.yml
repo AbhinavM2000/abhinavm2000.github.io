@@ -1,10 +1,10 @@
-- name: Dr. Spencer H. Bryngelson
-  photo: spencer_headshot.jpg
-  info: Senior Postdoctoral Scholar, Caltech 
-  email: spencer@caltech.edu
-  github: https://github.com/sbryngelson
-  researchgate: https://www.researchgate.net/profile/Spencer_Bryngelson
-  scholar: https://scholar.google.com/citations?user=dM-nHdMAAAAJ&hl=en
+name: Dr. Krishnakanta Mondal
+  photo: mondal_headshot.jpg
+  info: Assistant Professor, Central University of Punjab 
+  email: krishnakanta.mondal@cup.edu.in
+  github: https://github.com/krishnakantamondal
+  researchgate: https://www.researchgate.net/profile/Krishnakanta-Mondal
+  scholar: https://scholar.google.co.in/citations?user=iptbu_0AAAAJ&hl=en
   cv: cv/cv.pdf
   number_educ: 4
   education1: (2019- ) DST-INSPIRE Faculty, Department of Physics, Central University of Punjab, Bathinda
