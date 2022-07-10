@@ -31,10 +31,10 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: publications
-  - name: posts
   - name: research
+  - name: publications
   - name: teaching
+  - name: posts
 # - name: team
 # - name: teaching
 
