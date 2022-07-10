@@ -7,9 +7,9 @@ url: ""
 
 
 # Google analytics ID: Remove or use your own!
-google_analytics: UA-167467135-1
-google_analytics_4: G-02KDGRRB2T
-google_tag_manager: GTM-TZ9Z7HZ
+google_analytics: 
+google_analytics_4: 
+google_tag_manager: 
 
 # Footer info
 affiliation: >
@@ -34,7 +34,7 @@ nav_pages:
   - name: publications
   - name: posts
   - name: research
-  - name: software
+  - name: teaching
 # - name: team
 # - name: teaching
 
@@ -66,8 +66,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Bryngelson
-  first_name: [Spencer H.]
+  last_name: Mondal
+  first_name: [Krishnakanta]
 
   style: shb
   locale: en
