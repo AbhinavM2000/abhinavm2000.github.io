@@ -58,12 +58,12 @@
   degree: M.Sc. Project student
   year: 2019
 
-- name: <b>Ayushi Agrawal</b>         
+- name: <a style="color:#00BC8C"><b>Ayushi Agrawal</b></a>         
   location: Central University of Punjab         
   degree: M.Sc. Project student
   year: 2019
 
-- name: <b>Rajeev Kishore Poonia</b>         
-  location: <a style="color:#00BC8C">This is a paragraph.</a>      
+- name: <b><a style="color:#00BC8C">Rajeev Kishore Poonia</a></b>            
+  location: Central University of Punjab   
   degree: M.Sc. Project student
   year: 2019
