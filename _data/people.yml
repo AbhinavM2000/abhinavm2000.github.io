@@ -64,6 +64,6 @@
   year: 2019
 
 - name: <b>Rajeev Kishore Poonia</b>         
-  location: Central University of Punjab         
+  location: <p style="color:red">This is a paragraph.</p>         
   degree: M.Sc. Project student
   year: 2019
