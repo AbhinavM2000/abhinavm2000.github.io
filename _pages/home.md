@@ -22,7 +22,7 @@ more sample text
 
 ### About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am a DST-INSPIRE Faculty at the Central University of Punjab, working at the <a href="http://mme-428.ga/" target="_blank">Materials Modelling Lab</a>.
+Previously, I was a Postdoctoral Researcher at the <a href="https://www.iwm.fraunhofer.de/en.html" target="_blank">Fraunhofer IWM</a> and <a href="https://uni-freiburg.de/en/" target="_blank">University of Freiburg</a>, Germany.
+I have a Ph.D. in Physics from the <a href="http://hnbi.ac.in" target="_blank">Homi Bhabha National Institute</a>, India, where I worked with Prof. Arup Banerjee at <a href="https://rrcat.gov.in" target="_blank">Raja Ramanna Centre for Advanced Technology</a>.
+I hold M.Sc. and B.Sc. (Hons.) degrees in Physics from the University of Burdwan.
