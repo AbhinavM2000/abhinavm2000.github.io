@@ -5,5 +5,3 @@ excerpt: "About the website."
 sitemap: false
 permalink: /aboutwebsite.html
 ---
-
-{% include README2.md %}
